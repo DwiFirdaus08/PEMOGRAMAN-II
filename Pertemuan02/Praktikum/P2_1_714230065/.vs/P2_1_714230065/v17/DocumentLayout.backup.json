@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\P2_1_714230065\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEE188B-0179-43F8-910F-0015F073DBDD}|P2_1_714230065\\P2_1_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\p2_1_714230065\\p2_1_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEE188B-0179-43F8-910F-0015F073DBDD}|P2_1_714230065\\P2_1_714230065.csproj|solutionrelative:p2_1_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\P2_1_714230065\\P2_1_714230065\\Program.cs",
+              "RelativeDocumentMoniker": "P2_1_714230065\\Program.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\P2_1_714230065\\P2_1_714230065\\Program.cs",
+              "RelativeToolTip": "P2_1_714230065\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:04:08.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
