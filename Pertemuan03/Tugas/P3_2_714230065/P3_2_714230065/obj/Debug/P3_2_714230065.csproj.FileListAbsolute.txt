@@ -1,0 +1,7 @@
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan03\Tugas\P3_2_714230065\P3_2_714230065\bin\Debug\P3_2_714230065.exe.config
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan03\Tugas\P3_2_714230065\P3_2_714230065\bin\Debug\P3_2_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan03\Tugas\P3_2_714230065\P3_2_714230065\bin\Debug\P3_2_714230065.pdb
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan03\Tugas\P3_2_714230065\P3_2_714230065\obj\Debug\P3_2_714230065.csproj.AssemblyReference.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan03\Tugas\P3_2_714230065\P3_2_714230065\obj\Debug\P3_2_714230065.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan03\Tugas\P3_2_714230065\P3_2_714230065\obj\Debug\P3_2_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan03\Tugas\P3_2_714230065\P3_2_714230065\obj\Debug\P3_2_714230065.pdb

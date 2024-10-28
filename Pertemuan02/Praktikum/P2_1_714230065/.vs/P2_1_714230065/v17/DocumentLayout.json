@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\P2_1_714230065\\",
+  "WorkspaceRootPath": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan02\\Praktikum\\P2_1_714230065\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FEE188B-0179-43F8-910F-0015F073DBDD}|P2_1_714230065\\P2_1_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\p2_1_714230065\\p2_1_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FEE188B-0179-43F8-910F-0015F073DBDD}|P2_1_714230065\\P2_1_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan02\\praktikum\\p2_1_714230065\\p2_1_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FEE188B-0179-43F8-910F-0015F073DBDD}|P2_1_714230065\\P2_1_714230065.csproj|solutionrelative:p2_1_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\P2_1_714230065\\P2_1_714230065\\Program.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan02\\Praktikum\\P2_1_714230065\\P2_1_714230065\\Program.cs",
               "RelativeDocumentMoniker": "P2_1_714230065\\Program.cs",
-              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\P2_1_714230065\\P2_1_714230065\\Program.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan02\\Praktikum\\P2_1_714230065\\P2_1_714230065\\Program.cs",
               "RelativeToolTip": "P2_1_714230065\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T09:04:08.19Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
