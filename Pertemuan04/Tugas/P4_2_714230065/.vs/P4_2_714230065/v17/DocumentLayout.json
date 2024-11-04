@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan04\\tugas\\p4_2_714230065\\p4_2_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|solutionrelative:p4_2_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\p4_2_714230065\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|solutionrelative:p4_2_714230065\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\p4_2_714230065\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|solutionrelative:p4_2_714230065\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\p4_2_714230065\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C013BC9B-3B8A-4699-B43E-5A015D112E0D}|P4_2_714230065\\P4_2_714230065.csproj|solutionrelative:p4_2_714230065\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\Drink.cs",
+              "RelativeDocumentMoniker": "P4_2_714230065\\Drink.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\Drink.cs",
+              "RelativeToolTip": "P4_2_714230065\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:35:26.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\Food.cs",
+              "RelativeDocumentMoniker": "P4_2_714230065\\Food.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\Food.cs",
+              "RelativeToolTip": "P4_2_714230065\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:34:20.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\MenuItem.cs",
+              "RelativeDocumentMoniker": "P4_2_714230065\\MenuItem.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\MenuItem.cs",
+              "RelativeToolTip": "P4_2_714230065\\MenuItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:33:03.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\Program.cs",
+              "RelativeDocumentMoniker": "P4_2_714230065\\Program.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Tugas\\P4_2_714230065\\P4_2_714230065\\Program.cs",
+              "RelativeToolTip": "P4_2_714230065\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:07:35.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

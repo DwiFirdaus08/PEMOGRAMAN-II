@@ -1,0 +1,39 @@
+1. Error (active)	CS0122	'Product_714230065.myType' is inaccessible due to its protection level
+
+   Pesan ini muncul karena kita telah melakukan inisialisasi variable myType dengan Enkapsulasi 
+   ```
+   protected string myType= "Book";
+   ```
+   Sehingga tidak dapat muncul. Jadi kita ubah ke Public agar bisa mencetak myType "Book" 
+
+   ```
+   public string myType= "Book";
+   ```
+
+2. Di Terminal tidak muncul apa apa karena kita sudah set value untuk class MyType
+   ```
+    set
+    {
+        myType = value; //ini berarti Ketika kita memanggil class MyType kita harus inisialisai valuenya terlebih dahulu agar dapat muncul 			  pesannya
+    }
+
+   ```
+
+3.  Ketika kita melakukan inisialisai ntuk MyType dengan valuenya "DVD"
+    Maka perintah Console.WriteLine akan mencetak value tersebut
+   ```
+    myProduct.MyType = "DVD";
+    Console.WriteLine(myProduct.MyType); //Output: DVD
+    ```
+
+4. inheritance dimana class Book_NPM mengambil property dari class Product_NPM
+5. Karena kita menambahkan  public base(type, title) Book_714230065(string type, string title, string pagecount): base(type, title)
+   yang mana itu memanggil property milik contructor Product_NPM diluar kelas Book_NPM
+6.  Di contructor DVD_NPM kita sudah menginisialisai langsung value dari MyTpe dan MyTitle 
+public DVD_714230065(string title, string duration)
+ {
+     MyType = "DVD";
+     MyTitle = title;
+     this.duration = duration;
+     Console.WriteLine("ini dari class DVD");
+ }
