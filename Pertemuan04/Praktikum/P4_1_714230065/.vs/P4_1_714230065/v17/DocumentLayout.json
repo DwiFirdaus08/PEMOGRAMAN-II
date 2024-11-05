@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Praktikum\\P4_1_714230065\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21642333-09E6-4D35-91C9-DF94D8BC0D34}|P4_1_714230065\\P4_1_714230065.csproj|D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Praktikum\\P4_1_714230065\\p4_1_714230065\\producttest_714230065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21642333-09E6-4D35-91C9-DF94D8BC0D34}|P4_1_714230065\\P4_1_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan04\\praktikum\\p4_1_714230065\\p4_1_714230065\\producttest_714230065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21642333-09E6-4D35-91C9-DF94D8BC0D34}|P4_1_714230065\\P4_1_714230065.csproj|solutionrelative:p4_1_714230065\\producttest_714230065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{21642333-09E6-4D35-91C9-DF94D8BC0D34}|P4_1_714230065\\P4_1_714230065.csproj|solutionrelative:p4_1_714230065\\book_714230065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21642333-09E6-4D35-91C9-DF94D8BC0D34}|P4_1_714230065\\P4_1_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan04\\praktikum\\p4_1_714230065\\p4_1_714230065\\product_714230065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21642333-09E6-4D35-91C9-DF94D8BC0D34}|P4_1_714230065\\P4_1_714230065.csproj|D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Praktikum\\P4_1_714230065\\p4_1_714230065\\product_714230065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21642333-09E6-4D35-91C9-DF94D8BC0D34}|P4_1_714230065\\P4_1_714230065.csproj|solutionrelative:p4_1_714230065\\product_714230065.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "P4_1_714230065\\Product_714230065.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T06:42:07.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T06:42:07.61Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "P4_1_714230065\\Book_714230065.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T07:37:23.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T07:37:23.899Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "P4_1_714230065\\DVD_714230065.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T08:03:29.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T08:03:29.366Z"
             },
             {
               "$type": "Document",
@@ -75,14 +72,10 @@
               "RelativeDocumentMoniker": "P4_1_714230065\\ProductTest_714230065.cs",
               "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan04\\Praktikum\\P4_1_714230065\\P4_1_714230065\\ProductTest_714230065.cs",
               "RelativeToolTip": "P4_1_714230065\\ProductTest_714230065.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T06:40:46.229Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
