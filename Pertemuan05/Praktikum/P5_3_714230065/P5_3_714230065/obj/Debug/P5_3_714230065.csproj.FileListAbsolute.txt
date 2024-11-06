@@ -8,3 +8,13 @@ D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemua
 D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.csproj.CoreCompileInputs.cache
 D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.exe
 D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.pdb
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\bin\Debug\P5_3_714230065.exe.config
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\bin\Debug\P5_3_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\bin\Debug\P5_3_714230065.pdb
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.csproj.AssemblyReference.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.Form1.resources
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.Properties.Resources.resources
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.csproj.GenerateResource.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan05\Praktikum\P5_3_714230065\P5_3_714230065\obj\Debug\P5_3_714230065.pdb
