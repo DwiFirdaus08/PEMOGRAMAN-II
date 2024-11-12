@@ -95,7 +95,7 @@ namespace P6_3_714230065
             {
                 SetErrorMessages(txtAngka1, "Angka 1 tidak boleh kosong!", "", "");
             }
-            else if (txtAngka1.Text.All(Char.IsDigit))
+            else if (txtAngka1.Text.All(Char.IsNumber))
             {
                 SetErrorMessages(txtAngka1, "", "", "Betul!");
             }
@@ -112,7 +112,7 @@ namespace P6_3_714230065
             {
                 SetErrorMessages(txtAngka2, "Angka 2 tidak boleh kosong!", "", "");
             }
-            else if (txtAngka2.Text.All(Char.IsDigit))
+            else if (txtAngka2.Text.All(Char.IsNumber))
             {
                 SetErrorMessages(txtAngka2, "", "", "Betul!");
             }
@@ -128,20 +128,20 @@ namespace P6_3_714230065
             {
                 SetErrorMessages(txtAngka1, "Angka 1 tidak boleh kosong!", "", "");
             }
-            else if (txtAngka1.Text.All(Char.IsDigit))
+            else if (txtAngka1.Text.All(Char.IsNumber))
             {
                 SetErrorMessages(txtAngka1, "", "", "Betul!");
             }
 
             // Cek apakah Angka2 sudah terisi, jika iya, lakukan perbandingan
-            if (!string.IsNullOrEmpty(txtAngka2.Text) && txtAngka2.Text.All(Char.IsDigit))
+            if (!string.IsNullOrEmpty(txtAngka2.Text) && txtAngka2.Text.All(Char.IsNumber))
             {
                 int angka1 = int.Parse(txtAngka1.Text);
                 int angka2 = int.Parse(txtAngka2.Text);
 
                 if (angka1 > angka2)
                 {
-                    SetErrorMessages(txtAngka2, "", "", "Correct!");
+                    SetErrorMessages(txtAngka2, "", "", "Betul!");
                 }
                 else
                 {
@@ -157,13 +157,13 @@ namespace P6_3_714230065
             {
                 SetErrorMessages(txtAngka2, "Angka 2 tidak boleh kosong!", "", "");
             }
-            else if (txtAngka2.Text.All(Char.IsDigit))
+            else if (txtAngka2.Text.All(Char.IsNumber))
             {
                 SetErrorMessages(txtAngka2, "", "", "Betul!");
             }
 
             // Cek apakah Angka1 sudah terisi dan lakukan perbandingan
-            if (!string.IsNullOrEmpty(txtAngka1.Text) && txtAngka1.Text.All(Char.IsDigit))
+            if (!string.IsNullOrEmpty(txtAngka1.Text) && txtAngka1.Text.All(Char.IsNumber))
             {
                 int angka1 = int.Parse(txtAngka1.Text);
                 int angka2 = int.Parse(txtAngka2.Text);
