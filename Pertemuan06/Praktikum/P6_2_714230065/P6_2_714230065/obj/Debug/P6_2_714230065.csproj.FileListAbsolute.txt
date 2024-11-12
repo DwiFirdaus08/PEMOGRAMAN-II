@@ -1,0 +1,10 @@
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\bin\Debug\P6_2_714230065.exe.config
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\bin\Debug\P6_2_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\bin\Debug\P6_2_714230065.pdb
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\obj\Debug\P6_2_714230065.csproj.AssemblyReference.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\obj\Debug\P6_2_714230065.openFileButton.resources
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\obj\Debug\P6_2_714230065.Properties.Resources.resources
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\obj\Debug\P6_2_714230065.csproj.GenerateResource.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\obj\Debug\P6_2_714230065.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\obj\Debug\P6_2_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan06\Praktikum\P6_2_714230065\P6_2_714230065\obj\Debug\P6_2_714230065.pdb
