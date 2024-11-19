@@ -1,0 +1,10 @@
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\bin\Debug\P7_1_714230065.exe.config
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\bin\Debug\P7_1_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\bin\Debug\P7_1_714230065.pdb
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\obj\Debug\P7_1_714230065.csproj.AssemblyReference.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\obj\Debug\P7_1_714230065.Form1.resources
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\obj\Debug\P7_1_714230065.Properties.Resources.resources
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\obj\Debug\P7_1_714230065.csproj.GenerateResource.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\obj\Debug\P7_1_714230065.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\obj\Debug\P7_1_714230065.exe
+D:\kuliah\Semester3\Programming II\Source\Repos\PEMOGRAMAN-II_714230065\Pertemuan07\P7_1_714230065\P7_1_714230065\obj\Debug\P7_1_714230065.pdb
