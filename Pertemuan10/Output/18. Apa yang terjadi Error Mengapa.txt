@@ -1,0 +1,3 @@
+18. Apa yang terjadi? Error? Mengapa terjadi demikian? Jelaskan dan perbaiki!
+karena pada MEthode Update kita membuat dua parameter yaitu object dan string
+padaevent btnUbah mhs.Update(m_mhs) hanya memasukan 1 parameter.
