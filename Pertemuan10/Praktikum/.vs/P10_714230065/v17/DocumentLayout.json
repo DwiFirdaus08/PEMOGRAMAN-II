@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan10\\Praktikum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:59:23.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:56:54.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Mahasiswa.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:02:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.Designer.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:59:00.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:10:54.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\model\\M_mahasiswa.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:58:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:21:16.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
