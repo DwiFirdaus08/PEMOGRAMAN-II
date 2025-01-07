@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan12\\Praktikum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\formtransaksibarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162226B7-D0C2-4AF0-85DB-D1E4B23613E4}|..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\P9_714230065.csproj|d:\\kuliah\\semester3\\programming ii\\source\\repos\\pemograman-ii_714230065\\pertemuan09\\praktikum\\p9_714230065\\p9_714230065\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormBarang.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:35:16.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CekLogin.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\CekLogin.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\CekLogin.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\CekLogin.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\CekLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:35:03.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:34:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTransaksiBarang.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormTransaksiBarang.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormTransaksiBarang.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormTransaksiBarang.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormTransaksiBarang.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:34:40.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:34:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs [Design]",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs [Design]",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:37:21.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:39:28.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:35:08.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:34:17.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Barang.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Barang.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Barang.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\controller\\Barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:35:06.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\ParentForm.cs",
+              "ToolTip": "D:\\kuliah\\Semester3\\Programming II\\Source\\Repos\\PEMOGRAMAN-II_714230065\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\ParentForm.cs",
+              "RelativeToolTip": "..\\..\\Pertemuan09\\Praktikum\\P9_714230065\\P9_714230065\\view\\ParentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:34:23.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
